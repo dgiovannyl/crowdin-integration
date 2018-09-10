@@ -8,7 +8,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
-        <target xml:lang="fr" state="needs-translation">Hi</target>
+        <target xml:lang="fr" state="translated">Hola</target>
       </trans-unit>
       <trans-unit id="1e0843128781b2201382ee530877fe7645dcba44" datatype="html">
         <source>First Paragraph</source>
@@ -16,7 +16,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">5</context>
         </context-group>
-        <target xml:lang="fr" state="needs-translation">First Paragraph</target>
+        <target xml:lang="fr" state="translated">Primer parrafo</target>
       </trans-unit>
       <trans-unit id="7e411786751c9172ef4be0b55e86f8baecce97da" datatype="html">
         <source>Second Paragraph</source>
@@ -24,7 +24,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">7</context>
         </context-group>
-        <target xml:lang="fr" state="needs-translation">Second Paragraph</target>
+        <target xml:lang="fr" state="translated">Segundo parrafo</target>
       </trans-unit>
       <trans-unit id="35f7eb6e56ce7afb94c446a4b6d2d2128031157d" datatype="html">
         <source>Works!</source>
@@ -32,7 +32,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
-        <target xml:lang="fr" state="needs-translation">Works!</target>
+        <target xml:lang="fr" state="translated">Funciona!</target>
       </trans-unit>
     </body>
   </file>
