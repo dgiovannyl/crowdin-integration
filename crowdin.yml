@@ -1,3 +1,0 @@
-files:
-  - source: /crowdin/src/locale
-    translation: '%locale%'
