@@ -1,9 +1,0 @@
-files:
-  - source: '*/src/locale'
-    ignore:
-      - '*/src/locale/messages.xlf'
-    translation: '%locale%'
-    languages_mapping:
-      language:
-        fr: messages.fr.xlf
-        es-ES: messages.es.xlf
