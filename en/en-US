@@ -1,28 +1,39 @@
-// Protractor configuration file, see link for more information
-// https://github.com/angular/protractor/blob/master/lib/config.ts
-
-const { SpecReporter } = require('jasmine-spec-reporter');
-
-exports.config = {
-  allScriptsTimeout: 11000,
-  specs: [
-    './src/**/*.e2e-spec.ts'
-  ],
-  capabilities: {
-    'browserName': 'chrome'
-  },
-  directConnect: true,
-  baseUrl: 'http://localhost:4200/',
-  framework: 'jasmine',
-  jasmineNodeOpts: {
-    showColors: true,
-    defaultTimeoutInterval: 30000,
-    print: function() {}
-  },
-  onPrepare() {
-    require('ts-node').register({
-      project: require('path').join(__dirname, './tsconfig.e2e.json')
-    });
-    jasmine.getEnv().addReporter(new SpecReporter({ spec: { displayStacktrace: true } }));
-  }
-};
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="es-ES" datatype="plaintext" original="ng2.template" target-language="en">
+    <body>
+      <trans-unit id="a20489534d21b37154f54195e9393c9d9c39c2c4" datatype="html">
+        <source>Hola</source>
+        <target xml:lang="en" state="needs-translation">Hola</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="48200ac396285a7b6ea6fb57c41714c741de9c80" datatype="html">
+        <source>Primer parrafo</source>
+        <target xml:lang="en" state="needs-translation">Primer parrafo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a00d6a73951c5b60c10f61de96164c44ac8be5e8" datatype="html">
+        <source>Segundo Parrafo</source>
+        <target xml:lang="en" state="needs-translation">Segundo Parrafo</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="802bc40c366ef2c1ad366c7901ab1d180cacf47a" datatype="html">
+        <source>Funciona!</source>
+        <target xml:lang="en" state="needs-translation">Funciona!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
