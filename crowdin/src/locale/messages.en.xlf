@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="a20489534d21b37154f54195e9393c9d9c39c2c4" datatype="html">
+        <source>Hola</source>
+        <target>Hi</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="48200ac396285a7b6ea6fb57c41714c741de9c80" datatype="html">
+        <source>Primer parrafo</source>
+        <target>First paragraph</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a00d6a73951c5b60c10f61de96164c44ac8be5e8" datatype="html">
+        <source>Segundo Parrafo</source>
+        <target>Second paragraph</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="802bc40c366ef2c1ad366c7901ab1d180cacf47a" datatype="html">
+        <source>Funciona!</source>
+        <target>It works!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
