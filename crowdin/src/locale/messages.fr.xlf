@@ -2,13 +2,13 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="ng2.template" target-language="fr">
     <body>
-      <trans-unit id="3461ab23157a9153867c05a78c719b0d49cf1ad0" datatype="html">
-        <source>Hi</source>
+      <trans-unit id="5499b81e5db6d551e39b1731b360d787148bfea2" datatype="html">
+        <source>Introduction</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
-        <target xml:lang="fr" state="translated">Salut</target>
+        <target xml:lang="fr" state="needs-translation">Introduction</target>
       </trans-unit>
       <trans-unit id="1e0843128781b2201382ee530877fe7645dcba44" datatype="html">
         <source>First Paragraph</source>
@@ -26,13 +26,21 @@
         </context-group>
         <target xml:lang="fr" state="translated">Deuxième alinéa</target>
       </trans-unit>
-      <trans-unit id="35f7eb6e56ce7afb94c446a4b6d2d2128031157d" datatype="html">
-        <source>Works!</source>
+      <trans-unit id="4cb223b1387c8f41b4358194fb1e997cb48708bb" datatype="html">
+        <source>Conclusion</source>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
-        <target xml:lang="fr" state="translated">Ça marche !</target>
+        <target xml:lang="fr" state="needs-translation">Conclusion</target>
+      </trans-unit>
+      <trans-unit id="0dc2e6fb6d0244d5024e73ede409a45d5b0c8a64" datatype="html">
+        <source>References</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">app/app.component.html</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <target xml:lang="fr" state="needs-translation">References</target>
       </trans-unit>
     </body>
   </file>
