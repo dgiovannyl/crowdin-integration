@@ -8,7 +8,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">3</context>
         </context-group>
-        <target xml:lang="es-ES" state="needs-translation">Introduction</target>
+        <target xml:lang="es-ES" state="translated">Introducción</target>
       </trans-unit>
       <trans-unit id="1e0843128781b2201382ee530877fe7645dcba44" datatype="html">
         <source>First Paragraph</source>
@@ -32,7 +32,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
         </context-group>
-        <target xml:lang="es-ES" state="needs-translation">Conclusion</target>
+        <target xml:lang="es-ES" state="translated">Conclusión</target>
       </trans-unit>
       <trans-unit id="0dc2e6fb6d0244d5024e73ede409a45d5b0c8a64" datatype="html">
         <source>References</source>
@@ -40,7 +40,7 @@
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">11</context>
         </context-group>
-        <target xml:lang="es-ES" state="needs-translation">References</target>
+        <target xml:lang="es-ES" state="translated">Referencias</target>
       </trans-unit>
     </body>
   </file>
